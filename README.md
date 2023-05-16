@@ -34,7 +34,7 @@ Une extension Chrome amusante qui reconnaît les visages des personnalités poli
 ## Contact
 
 - Email : almedoedward@gmail.com
-- [Profil LinkedIn](https://www.linkedin.com/in/edward-almedo-238a88275/)
+- [Profil LinkedIn](https://www.linkedin.com/in/edward-almedo/)
 
 N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez en savoir plus sur mes projets. Je suis toujours ouvert aux nouvelles opportunités !
 
