@@ -14,6 +14,7 @@ Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
+- [Les Mousquetaire] (<img width="915" alt="pico1-8" src="https://github.com/edwardrico/edwardrico/assets/120380332/143f6a61-a5a8-4f44-94e7-688a414e8d3c">
 
 ### Dataviz : API de Transport Public de Nantes
 
@@ -21,6 +22,7 @@ Une application web interactive utilisant les données de transport public de Na
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
+- [Travel Time](![api](https://github.com/edwardrico/edwardrico/assets/120380332/0560e420-54dd-4fad-945d-37faf9e25472)
 
 ### Extension Web Chrome : Reconnaître les Personnages Politiques Français
 
