@@ -13,21 +13,21 @@ Je suis un étudiant en développement web à l'Ada Tech School, motivé par la 
 Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
-- [Lien vers le projet](lien-vers-le-projet)
+- [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
 
 ### Dataviz : API de Transport Public de Nantes
 
 Une application web interactive utilisant les données de transport public de Nantes.
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
-- [Lien vers le projet](lien-vers-le-projet)
+- [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
 
 ### Extension Web Chrome : Reconnaître les Personnages Politiques Français
 
 Une extension Chrome amusante qui reconnaît les visages des personnalités politiques françaises.
 
 - Technologies utilisées : JavaScript, Chrome Extensions API.
-- [Lien vers le projet](lien-vers-le-projet)
+- [Lien vers le projet](https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion)
 
 ## Contact
 
