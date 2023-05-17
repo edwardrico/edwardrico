@@ -30,7 +30,7 @@ Une extension Chrome amusante qui reconnaît les visages des personnalités poli
 
 - Technologies utilisées : JavaScript, Chrome Extensions API.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion)
-- [Extension web crome](https://files.slack.com/files-pri/TFLNG6MFU-F0587L1JAH0/extension_nav.png)
+- [Extension web crome](![extension_nav_720](https://github.com/edwardrico/edwardrico/assets/120380332/03968f61-31c4-4910-b6e4-b441fb16a46d)
 
 
 
