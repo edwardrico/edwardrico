@@ -47,7 +47,9 @@ Un réseau social avec php mysql.
 
 Site web magasin en ligne (MUEBLEA).
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js
-- 
+- [Lien vers le projet]([
+](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
+-[Mueblea](<img width="1272" alt="Capture d’écran 2023-07-10 à 15 25 07" src="https://github.com/edwardrico/edwardrico/assets/120380332/d071f21f-a647-4e44-8913-453e8eda6ebc">
 
 
 ## Contact
