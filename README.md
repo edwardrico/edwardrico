@@ -1,4 +1,4 @@
-Edward Almedo - Développeur Web
+# Edward Almedo - Développeur Web
 
 Salut ! Je suis Edward Almedo, un développeur web passionné par la création d'applications web innovantes et captivantes. Je suis actuellement étudiant à l'Ada Tech School, où j'ai acquis des compétences solides en développement web.
 
@@ -75,7 +75,7 @@ Site web magasin en ligne (MUEBLEA).
 
 
 
-## Contact
+# Contact
 
 - Email : almedoedward@gmail.com
 - [Profil LinkedIn](https://www.linkedin.com/in/edward-almedo/)
