@@ -32,7 +32,7 @@ Une application web interactive utilisant les données de transport public de Na
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
 - [Travel Time]
-- (![api](https://github.com/edwardrico/edwardrico/assets/120380332/0560e420-54dd-4fad-945d-37faf9e25472)
+- ![api](https://github.com/edwardrico/edwardrico/assets/120380332/0560e420-54dd-4fad-945d-37faf9e25472)
 
 
 
