@@ -11,7 +11,7 @@ Je suis un étudiant en développement web à l'Ada Tech School, motivé par la 
 
 
 
-### Pico-8 : Les Mousquetaires
+## Pico-8 : Les Mousquetaires
 
 Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
@@ -25,7 +25,7 @@ Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
 
 
-### Dataviz : API de Transport Public de Nantes
+## Dataviz : API de Transport Public de Nantes
 
 Une application web interactive utilisant les données de transport public de Nantes.
 
@@ -38,7 +38,7 @@ Une application web interactive utilisant les données de transport public de Na
 
 
 
-### Extension Web Chrome : Reconnaître les Personnages Politiques Français
+## Extension Web Chrome : Reconnaître les Personnages Politiques Français
 
 Une extension Chrome amusante qui reconnaît les visages des personnalités politiques françaises.
 
@@ -51,7 +51,7 @@ Une extension Chrome amusante qui reconnaît les visages des personnalités poli
 
 
 
-### Réseau social PHP
+## Réseau social PHP
 
 Un réseau social avec php mysql.
 - Technoligies utilisées : Php, Mysql, HTML, CSS, Gestion de projet ( Trello )
@@ -63,7 +63,7 @@ Un réseau social avec php mysql.
 
 
 
-### Site web, plateforme de vente de meuble 
+## Site web, plateforme de vente de meuble 
 
 Site web magasin en ligne (MUEBLEA).
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
