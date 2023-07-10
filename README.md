@@ -43,6 +43,12 @@ Un réseau social avec php mysql.
 - [Réseau social]
 - (<img width="800" alt="Capture d’écran 2023-07-10 à 14 50 31" src="https://github.com/edwardrico/edwardrico/assets/120380332/7a59542c-d502-445a-8403-e89099ef80b7">
 
+### Site web, plateforme de vente de meuble 
+
+Site web magasin en ligne (MUEBLEA).
+- Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js
+- 
+
 
 ## Contact
 
