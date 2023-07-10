@@ -13,7 +13,7 @@ Je suis un étudiant en développement web à l'Ada Tech School, motivé par la 
 
 ## Pico-8 : Les Mousquetaires
 
-Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
+### Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
@@ -27,7 +27,7 @@ Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
 ## Dataviz : TravelTime transport public
 
-Une application web interactive utilisant les données de transport public de Nantes.
+### Une application web interactive utilisant les données de transport public de Nantes.
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
@@ -40,7 +40,7 @@ Une application web interactive utilisant les données de transport public de Na
 
 ## Extension Web Chrome : Reconnaître les Personnages Politiques Français
 
-Une extension Chrome amusante qui reconnaît les visages des personnalités politiques françaises.
+### Une extension Chrome amusante qui reconnaît les visages des personnalités politiques françaises.
 
 - Technologies utilisées : JavaScript, Chrome Extensions API.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion)
@@ -53,7 +53,8 @@ Une extension Chrome amusante qui reconnaît les visages des personnalités poli
 
 ## Réseau social PHP
 
-Un réseau social avec php mysql.
+### Un réseau social avec php mysql.
+
 - Technoligies utilisées : Php, Mysql, HTML, CSS, Gestion de projet ( Trello )
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
 - [Réseau social]
@@ -65,7 +66,8 @@ Un réseau social avec php mysql.
 
 ## Site web : plateforme vente de meubles (MEUBLEA) 
 
-Site web magasin en ligne (MUEBLEA).
+### Site web magasin en ligne (MUEBLEA).
+
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
 - [Mueblea]
@@ -80,9 +82,9 @@ Site web magasin en ligne (MUEBLEA).
 - Email : almedoedward@gmail.com
 - [Profil LinkedIn](https://www.linkedin.com/in/edward-almedo/)
 
-N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez en savoir plus sur mes projets. Je suis toujours ouvert aux nouvelles opportunités !
+# N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez en savoir plus sur mes projets. Je suis toujours ouvert aux nouvelles opportunités !
 
-Merci d'avoir visité mon profil GitHub et bonne journée !
+# Merci d'avoir visité mon profil GitHub et bonne journée !
 
 
 
