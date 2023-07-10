@@ -37,7 +37,7 @@ Une extension Chrome amusante qui reconnaît les visages des personnalités poli
 Un réseau social avec php mysql.
 - Technoligies utilisées : Php, Mysql, HTML, CSS, Gestion de projet ( Trello )
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
-- [Réseau social](<img width="1275" alt="Capture d’écran 2023-07-10 à 14 50 31" src="https://github.com/edwardrico/edwardrico/assets/120380332/7a59542c-d502-445a-8403-e89099ef80b7">)
+- [Réseau social](<img width="800" alt="Capture d’écran 2023-07-10 à 14 50 31" src="https://github.com/edwardrico/edwardrico/assets/120380332/7a59542c-d502-445a-8403-e89099ef80b7">
 
 
 ## Contact
