@@ -17,7 +17,7 @@ Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
-- ##[Les Mousquetaire]
+- [Les Mousquetaire]
 - (<img width="800[" alt="pico1-8" src="https://github.com/edwardrico/edwardrico/assets/120380332/143f6a61-a5a8-4f44-94e7-688a414e8d3c">
 
 
@@ -25,13 +25,13 @@ Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
 
 
-## Dataviz : API de Transport Public de Nantes
+## Dataviz : TravelTime transport public
 
 Une application web interactive utilisant les données de transport public de Nantes.
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
-- ##[Travel Time]
+- [Travel Time]
 - (![api](https://github.com/edwardrico/edwardrico/assets/120380332/0560e420-54dd-4fad-945d-37faf9e25472)
 
 
@@ -63,7 +63,7 @@ Un réseau social avec php mysql.
 
 
 
-## Site web, plateforme vente de meuble 
+## Site web : plateforme vente de meubles (MEUBLEA) 
 
 Site web magasin en ligne (MUEBLEA).
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
