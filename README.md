@@ -63,7 +63,7 @@ Un réseau social avec php mysql.
 
 
 
-## Site web, plateforme de vente de meuble 
+## Site web, plateforme vente de meuble 
 
 Site web magasin en ligne (MUEBLEA).
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
