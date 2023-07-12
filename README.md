@@ -1,10 +1,10 @@
 # Edward Almedo - Développeur Web
 
-Salut ! Je suis Edward Almedo, un développeur web passionné par la création d'applications web innovantes et captivantes. Je suis actuellement étudiant à l'Ada Tech School, où j'ai acquis des compétences solides en développement web.
+Salut ! Je suis Edward Almedo, un développeur web passionné par la création d'applications web innovantes et captivantes. Je suis actuellement étudiant à Ada Tech School, où j'ai acquis des compétences solides en développement web.
 
 ## À propos de moi
 
-Je suis un étudiant en développement web à l'Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML, CSS, Python, Reat, Php  et JavaScript.
+Je suis un étudiant en développement web à l'Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python| React| PHP et JavaScript.
 
 ## Projets
 
