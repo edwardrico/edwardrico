@@ -4,7 +4,7 @@ Salut ! Je suis Edward Almedo, un développeur web passionné par la création d
 
 ## À propos de moi
 
-Je suis un étudiant en développement web à l'Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python| React| PHP et JavaScript.
+Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python| React| PHP et JavaScript.
 
 ## Projets
 
@@ -84,7 +84,7 @@ Je suis un étudiant en développement web à l'Ada Tech School, motivé par la 
 
  N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez en savoir plus sur mes projets. Je suis toujours ouvert aux nouvelles opportunités !
 
-### Merci d'avoir visité mon profil GitHub et passe une bonne journée !
+### Merci d'avoir visité mon profil GitHub et passez une bonne journée !
 
 
 
