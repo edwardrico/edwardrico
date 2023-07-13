@@ -7,7 +7,7 @@ Salut ! Je suis Edward Almedo, un étudiant développeur web passionné par la c
 
 Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python| React| PHP et JavaScript.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardrico)](https://github.com/edwardrico/github-readme-stats)
+
 ## Projets
 
 
@@ -76,8 +76,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <img width="1272" alt="Capture d’écran 2023-07-10 à 15 25 07" src="https://github.com/edwardrico/edwardrico/assets/120380332/d071f21f-a647-4e44-8913-453e8eda6ebc">
 
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 # Contact
 
