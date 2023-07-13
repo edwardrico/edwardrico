@@ -81,7 +81,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 # Contact
 
 -  almedoedward@gmail.com
-- [](https://www.linkedin.com/in/edward-almedo/)
+- [Linkedin](https://www.linkedin.com/in/edward-almedo/)
 
  N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez en savoir plus sur mes projets. Je suis toujours ouvert aux nouvelles opportunités !
 
