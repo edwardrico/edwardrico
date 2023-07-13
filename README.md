@@ -81,8 +81,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 # Contact
 
 -  almedoedward@gmail.com
-- [![image](https://github.com/edwardrico/edwardrico/assets/120380332/2fadb42b-8bef-40f8-8c1b-333255664ded)
-(https://www.linkedin.com/in/edward-almedo/)
+- [](https://www.linkedin.com/in/edward-almedo/)
 
  N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez en savoir plus sur mes projets. Je suis toujours ouvert aux nouvelles opportunités !
 
