@@ -1,5 +1,6 @@
 # Étudiant en Develeppement Web et web mobile 
-![Edward Almedo (1)](https://github.com/edwardrico/edwardrico/assets/120380332/6771c07c-05a2-4a1d-a797-5fb40a7908f7)
+![Edward Almedo (1)](https://github.com/edwardrico/edwardrico/assets/120380332/c70edd67-18c3-4f6b-892c-407ef91119c4)
+
 
 Salut ! Je suis Edward Almedo, un étudiant développeur web passionné par la création d'applications web innovantes et captivantes. Je suis actuellement étudiant à Ada Tech School, où j'ai acquis des compétences solides en développement web.
 
