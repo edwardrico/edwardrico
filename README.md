@@ -1,4 +1,5 @@
 <h1 align="center"> Étudiant en Develeppement Full stack</h1> 
+
 ![Edward Almedo](https://github.com/edwardrico/edwardrico/assets/120380332/5fde048b-58ae-434b-a7e3-71db83e03cc7)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardrico-9&label=Profile%20views&color=0e75b6&style=flat-square" alt="edwardrico" /> </p>
