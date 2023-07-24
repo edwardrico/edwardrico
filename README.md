@@ -6,7 +6,7 @@ Salut ! Je suis Edward Almedo, un étudiant développeur web passionné par la c
 ## À propos de moi
 
 Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python| React| PHP et JavaScript.
-
+<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=edwardrico&label=Profile%20views&color=0e75b6&style=flat” alt=“edwardrico” /></p>
 
 ## Projets
 
