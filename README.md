@@ -29,8 +29,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
 - [Les Mousquetaire]
-- <img width="800 style= border - radius= 20px[" alt="pico1-8" src="https://github.com/edwardrico/edwardrico/assets/120380332/143f6a61-a5a8-4f44-94e7-688a414e8d3c">
-
+ <img src="https://github.com/edwardrico/edwardrico/blob/main/assets/pico8.png" alt="Image du jeu" style="border-radius: 20px;" width="800">
 
 
 
