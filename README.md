@@ -10,6 +10,11 @@ Salut ! Je suis Edward Almedo, un étudiant développeur web passionné par la c
 <h1 align="center"> À propos de moi</h1>
 
 Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python| React| PHP et JavaScript.
+<h3> Outils:</h3>
+
+° Trello
+° VisualStusi Code
+° Pycharm
 
 
 <h1 align="center">Projets</h1>
