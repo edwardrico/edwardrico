@@ -20,6 +20,12 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <h1 align="center">Projets</h1>
 
 
+## Portfolio.
+
+- Technologies utilisées : ( React.js , CSS )
+- [lien vers le projet](https://github.com/edwardrico/portfolio)
+- [Mon Portfolio]
+  <img width="1279" alt="Capture d’écran 2023-08-16 à 21 40 46" src="https://github.com/edwardrico/edwardrico/assets/120380332/67044ead-2751-4f2b-a161-94136bb2f116">
 
 
 ## Pico-8 : Les Mousquetaires
