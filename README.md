@@ -45,7 +45,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
 - [Les Mousquetaire]
- <img width="896" alt="Capture d’écran 2023-07-24 à 20 24 42" src="https://github.com/edwardrico/edwardrico/assets/120380332/268cec0d-32f8-46f3-85b9-4e09bd77f98c">
+ <img width="1279" alt="Capture d’écran 2023-07-24 à 20 24 42" src="https://github.com/edwardrico/edwardrico/assets/120380332/268cec0d-32f8-46f3-85b9-4e09bd77f98c">
 
 
 ## Dataviz : TravelTime transport public
@@ -94,7 +94,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
 - [Mueblea]
-<img width="1272" alt="Capture d’écran 2023-07-10 à 15 25 07" src="https://github.com/edwardrico/edwardrico/assets/120380332/d071f21f-a647-4e44-8913-453e8eda6ebc">
+<img width="1279" alt="Capture d’écran 2023-07-10 à 15 25 07" src="https://github.com/edwardrico/edwardrico/assets/120380332/d071f21f-a647-4e44-8913-453e8eda6ebc">
 
 
 # GitHub Stats
