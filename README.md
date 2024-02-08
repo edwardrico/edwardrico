@@ -1,10 +1,5 @@
-<style>
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
+
+
 
 <h1 align="center"> Étudiant en Develeppement Full stack</h1> 
 
