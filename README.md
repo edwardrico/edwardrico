@@ -72,9 +72,11 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
 - [Travel Time]
-<p align="center">
-  <img class="center" src="https://raw.githubusercontent.com/edwardrico/edwardrico/main/assets/120380332/0560e420-54dd-4fad-945d-37faf9e25472.png" alt="api" width="700" height="400">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/edwardrico/edwardrico/main/assets/120380332/524d6c1d-58d3-40a0-af19-a53a6509d753" alt="Capture d’écran 2024-02-08 à 18 08 12" class="center" width="700" height="400">
 </p>
+
+
 
 
 
