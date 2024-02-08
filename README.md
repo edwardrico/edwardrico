@@ -26,7 +26,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées :( Python, Django, Bootstrap, Html, CSS,)
 - [lien vers le projet](https://github.com/edwardrico/App-Meteo-API)
 - [Meteo]
-  <img width="1279" height="600" alt="Capture d’écran 2024-02-08 à 15 44 12"style="border-radius: 15px;"src="https://github.com/edwardrico/edwardrico/assets/120380332/9847690e-5768-4581-9eeb-d6870ce092b4">
+  <img width="1279" height="600" alt="Capture d’écran 2024-02-08 à 15 44 12" style="border-radius: 15px;" src="https://github.com/edwardrico/edwardrico/assets/120380332/9847690e-5768-4581-9eeb-d6870ce092b4">
 
 
 ## SpotMyTonw.
