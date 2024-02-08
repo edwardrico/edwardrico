@@ -33,6 +33,8 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <img class="center" width="700" height="400"  align="center" alt="Capture d’écran 2024-02-08 à 15 44 12" src="https://github.com/edwardrico/edwardrico/assets/120380332/9847690e-5768-4581-9eeb-d6870ce092b4">
 </p>
 
+##
+
 ## SpotMyTonw.
 
 ## Application web pour référencer les lieux touristiques de la ville dans diverses catégories telles que : Restaurants, Bars, Lieux touristiques et Boîtes de nuit..
@@ -44,6 +46,8 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <img class="center" width="700" height="400" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
 </p>
 
+##
+
 ## Portfolio.
 
 - Technologies utilisées : ( React.js , CSS )
@@ -53,6 +57,8 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <p align="center">
 <img class="center" width="700" height="400" alt="Capture d’écran 2023-08-16 à 21 40 46" src="https://github.com/edwardrico/edwardrico/assets/120380332/67044ead-2751-4f2b-a161-94136bb2f116">
 </p>
+
+##
 
 ## Pico-8 : Les Mousquetaires
 
@@ -65,6 +71,8 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <img class="center" width="700" height="400" align="center" alt="Capture d’écran 2023-07-24 à 20 24 42" src="https://github.com/edwardrico/edwardrico/assets/120380332/268cec0d-32f8-46f3-85b9-4e09bd77f98c">
 </p>
 
+##
+
 ## Dataviz : TravelTime transport public
 
 ### Une application web interactive utilisant les données de transport public de Nantes.
@@ -76,14 +84,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
  <img class="center" width="700" height="400" align="center" alt="Capture d’écran 2024-02-08 à 18 08 12" src="https://github.com/edwardrico/edwardrico/assets/120380332/642708d2-ee3e-4366-b8a2-a61c4db54df6">
 </p>
 
-
-
-
-
-
-
-
-
+##
 
 ## Extension Web Chrome : Reconnaître les Personnages Politiques Français
 
@@ -96,9 +97,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
   <img class="center" width="700" height="400" align="center" src="https://github.com/edwardrico/edwardrico/assets/120380332/03968f61-31c4-4910-b6e4-b441fb16a46d" alt="extension_nav_720">
 </p>
 
-
-
-
+##
 
 ## Réseau social PHP
 
@@ -111,8 +110,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <img class="center" width="700" height="400" align="center" alt="Capture d’écran 2023-07-10 à 14 50 31" src="https://github.com/edwardrico/edwardrico/assets/120380332/7a59542c-d502-445a-8403-e89099ef80b7">
 </p>
 
-
-
+##
 
 ## Site web : plateforme vente de meubles (MEUBLEA) 
 
@@ -128,10 +126,14 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 # GitHub Stats
 ![edwardrico GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardrico&show_icons=true&theme=dracula)
 
+##
+
 # Contact
 
 -  almedoedward@gmail.com
 - [Linkedin](https://www.linkedin.com/in/edward-almedo/)
+
+##
 
  N'hésitez pas à me contacter si vous avez des questions, des propositions de collaboration ou si vous souhaitez en savoir plus sur mes projets. Je suis toujours ouvert aux nouvelles opportunités !
 
