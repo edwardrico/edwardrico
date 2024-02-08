@@ -9,7 +9,7 @@ Salut ! Je suis Edward Almedo, un étudiant développeur web passionné par la c
 
 <h1 align="center"> À propos de moi</h1>
 
-Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python| React| PHP et JavaScript.
+Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python |Django| React| PHP et JavaScript.
 <h3> Outils:</h3>
 
 ° Trello
@@ -18,6 +18,15 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 
 <h1 align="center">Projets</h1>
+
+## SpotMyTonw.
+
+## Application web pour référencer les lieux touristiques de la ville dans diverses catégories telles que : Restaurants, Bars, Lieux touristiques et Boîtes de nuit..
+
+- Technologies utilisées : ( Python, Django, Bootstrap, Html, CSS, JavaScript )
+- [lien vers le projet](https://github.com/edwardrico/SpotMyTown-)
+- [SpotMyTonw]
+  <img width="1279" alt="<img width="722" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
 
 
 ## Portfolio.
