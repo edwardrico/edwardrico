@@ -9,7 +9,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardrico-9&label=Profile%20views&color=0e75b6&style=flat-square" alt="edwardrico" /> </p>
 
 
-Salut ! Je suis Edward Almedo, un étudiant développeur web passionné par la création d'applications web innovantes et captivantes. Je suis actuellement étudiant à Ada Tech School, où j'ai acquis des compétences solides en développement web.
+👋 Salut ! Je suis Edward Almedo, un étudiant développeur web passionné par la création d'applications web innovantes et captivantes. Je suis actuellement étudiant à Ada Tech School, où j'ai acquis des compétences solides en développement web.
 
 <h1 align="center"> À propos de moi</h1>
 
@@ -36,7 +36,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 ##
 
-## SpotMyTonw.
+## SpotMyTown.
 
 ## Application web pour référencer les lieux touristiques de la ville dans diverses catégories telles que : Restaurants, Bars, Lieux touristiques et Boîtes de nuit..
 
