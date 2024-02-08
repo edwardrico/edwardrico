@@ -25,8 +25,8 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : ( Python, Django, Bootstrap, Html, CSS, JavaScript )
 - [lien vers le projet](https://github.com/edwardrico/SpotMyTown-)
-### SpotMtyTown
-  <img width="1279" alt="<img width="722" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
+-[SpotMyTown]
+  <img width="722" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
 
 
 ## Portfolio.
