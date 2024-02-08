@@ -26,7 +26,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées :( Python, Django, Bootstrap, Html, CSS,)
 - [lien vers le projet](https://github.com/edwardrico/App-Meteo-API)
 - [Meteo]
-  <img width="1279" alt="Capture d’écran 2024-02-08 à 15 44 12" src="https://github.com/edwardrico/edwardrico/assets/120380332/9847690e-5768-4581-9eeb-d6870ce092b4">
+  <img width="1279" height="650" alt="Capture d’écran 2024-02-08 à 15 44 12" src="https://github.com/edwardrico/edwardrico/assets/120380332/9847690e-5768-4581-9eeb-d6870ce092b4">
 
 
 ## SpotMyTonw.
@@ -55,7 +55,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
 - [Les Mousquetaire]
- <img width="1279" height="500" alt="Capture d’écran 2023-07-24 à 20 24 42" src="https://github.com/edwardrico/edwardrico/assets/120380332/268cec0d-32f8-46f3-85b9-4e09bd77f98c">
+ <img width="1279" height="650" alt="Capture d’écran 2023-07-24 à 20 24 42" src="https://github.com/edwardrico/edwardrico/assets/120380332/268cec0d-32f8-46f3-85b9-4e09bd77f98c">
 
 
 ## Dataviz : TravelTime transport public
