@@ -35,7 +35,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - [lien vers le projet](https://github.com/edwardrico/App-Meteo-API)
 - [Meteo]
   
-<img width="700" height="400"  align="center" alt="Capture d’écran 2024-02-08 à 15 44 12" src="https://github.com/edwardrico/edwardrico/assets/120380332/9847690e-5768-4581-9eeb-d6870ce092b4">
+<img class="center" width="700" height="400"  align="center" alt="Capture d’écran 2024-02-08 à 15 44 12" src="https://github.com/edwardrico/edwardrico/assets/120380332/9847690e-5768-4581-9eeb-d6870ce092b4">
 
 
 ## SpotMyTonw.
@@ -46,7 +46,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - [lien vers le projet](https://github.com/edwardrico/SpotMyTown-)
 - [SpotMyTown]
 <p align="left">
-<img width="700" height="400" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
+<img class="center" width="700" height="400" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
 </p>
 
 ## Portfolio.
@@ -56,7 +56,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - www.edwardalmedo.fr
 - [Mon Portfolio]
 <p align="left">
-<img width="700" height="400" alt="Capture d’écran 2023-08-16 à 21 40 46" src="https://github.com/edwardrico/edwardrico/assets/120380332/67044ead-2751-4f2b-a161-94136bb2f116">
+<img class="center" width="700" height="400" alt="Capture d’écran 2023-08-16 à 21 40 46" src="https://github.com/edwardrico/edwardrico/assets/120380332/67044ead-2751-4f2b-a161-94136bb2f116">
 </p>
 
 ## Pico-8 : Les Mousquetaires
@@ -67,7 +67,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
 - [Les Mousquetaire]
 <p align="left">
-<img width="700" height="400" align="center" alt="Capture d’écran 2023-07-24 à 20 24 42" src="https://github.com/edwardrico/edwardrico/assets/120380332/268cec0d-32f8-46f3-85b9-4e09bd77f98c">
+<img class="center" width="700" height="400" align="center" alt="Capture d’écran 2023-07-24 à 20 24 42" src="https://github.com/edwardrico/edwardrico/assets/120380332/268cec0d-32f8-46f3-85b9-4e09bd77f98c">
 </p>
 
 ## Dataviz : TravelTime transport public
@@ -106,7 +106,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
 - [Réseau social]
 <p align="left">
-<img width="700" height="400" align="center" alt="Capture d’écran 2023-07-10 à 14 50 31" src="https://github.com/edwardrico/edwardrico/assets/120380332/7a59542c-d502-445a-8403-e89099ef80b7">
+<img class="center" width="700" height="400" align="center" alt="Capture d’écran 2023-07-10 à 14 50 31" src="https://github.com/edwardrico/edwardrico/assets/120380332/7a59542c-d502-445a-8403-e89099ef80b7">
 </p>
 
 
@@ -120,7 +120,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
 - [Mueblea]
 <p align="left">
-<img width="700" height="400"  align="center" alt="Capture d’écran 2023-07-10 à 15 25 07" src="https://github.com/edwardrico/edwardrico/assets/120380332/d071f21f-a647-4e44-8913-453e8eda6ebc">
+<img class="center" width="700" height="400"  align="center" alt="Capture d’écran 2023-07-10 à 15 25 07" src="https://github.com/edwardrico/edwardrico/assets/120380332/d071f21f-a647-4e44-8913-453e8eda6ebc">
 </p>
 
 # GitHub Stats
