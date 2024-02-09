@@ -143,6 +143,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <img class="center" width="700" height="400"  align="center" alt="Capture d’écran 2023-07-10 à 15 25 07" src="https://github.com/edwardrico/edwardrico/assets/120380332/d071f21f-a647-4e44-8913-453e8eda6ebc">
 </p>
 
+##
 # GitHub Stats
 ![edwardrico GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardrico&show_icons=true&theme=dracula)
 
