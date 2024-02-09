@@ -1,9 +1,9 @@
 #
 <h1 align="center"> Étudiant en Develeppement Full stack</h1> 
-##
+
 
 <img width="1438" alt="Capture d’écran 2024-02-09 à 19 55 18" src="https://github.com/edwardrico/edwardrico/assets/120380332/151b43ce-921b-4336-9867-c0b84e5b80da">
-##
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardrico-9&label=Profile%20views&color=0e75b6&style=flat-square" alt="edwardrico" /> </p>
 
 
