@@ -48,7 +48,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ##
 <p align="center">
 <a href="https://github.com/edwardrico/SpotMyTown-">
-<img class="center" width="1550" height="600" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
+<img class="center" width="700" height="400" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
 </p>
 
 ##
