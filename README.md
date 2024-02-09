@@ -30,6 +30,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées :( Python, Django, Bootstrap, Html, CSS,)
 - [lien vers le projet](https://github.com/edwardrico/App-Meteo-API)
 - [Meteo]
+##
 <p align="center">
 <a href="https://github.com/edwardrico/App-Meteo-API">
 <img class="center" width="700" height="400"  align="center" alt="Capture d’écran 2024-02-08 à 15 44 12" src="https://github.com/edwardrico/edwardrico/assets/120380332/9847690e-5768-4581-9eeb-d6870ce092b4">
@@ -44,7 +45,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : ( Python, Django, Bootstrap, Html, CSS, JavaScript )
 - [lien vers le projet](https://github.com/edwardrico/SpotMyTown-)
 - [SpotMyTown]
+##
 <p align="center">
+<a href="https://github.com/edwardrico/SpotMyTown-">
 <img class="center" width="700" height="400" alt="Capture d’écran 2024-02-06 à 18 32 10" src="https://github.com/edwardrico/edwardrico/assets/120380332/6d94b0fc-afbc-492a-a8a5-69e2ee1640ff">
 </p>
 
@@ -56,7 +59,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - [lien vers le projet](https://github.com/edwardrico/portfolio)
 - www.edwardalmedo.fr
 - [Mon Portfolio]
+##
 <p align="center">
+<a href="https://github.com/edwardrico/portfolio">
 <img class="center" width="700" height="400" alt="Capture d’écran 2023-08-16 à 21 40 46" src="https://github.com/edwardrico/edwardrico/assets/120380332/67044ead-2751-4f2b-a161-94136bb2f116">
 </p>
 
@@ -69,7 +74,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
 - [Les Mousquetaire]
+##
 <p align="center">
+<a href="https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires">
 <img class="center" width="700" height="400" align="center" alt="Capture d’écran 2023-07-24 à 20 24 42" src="https://github.com/edwardrico/edwardrico/assets/120380332/268cec0d-32f8-46f3-85b9-4e09bd77f98c">
 </p>
 
@@ -82,7 +89,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
 - [Travel Time]
+##
 <p align="center">
+ <a href="https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup">
  <img class="center" width="700" height="400" align="center" alt="Capture d’écran 2024-02-08 à 18 08 12" src="https://github.com/edwardrico/edwardrico/assets/120380332/642708d2-ee3e-4366-b8a2-a61c4db54df6">
 </p>
 
@@ -95,7 +104,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : JavaScript, Chrome Extensions API.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion)
 - [Extension web chrome]
+##
  <p align="center">
+   <a href="https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion">
   <img class="center" width="700" height="400" align="center" src="https://github.com/edwardrico/edwardrico/assets/120380332/03968f61-31c4-4910-b6e4-b441fb16a46d" alt="extension_nav_720">
 </p>
 
@@ -108,7 +119,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technoligies utilisées : Php, Mysql, HTML, CSS, Gestion de projet ( Trello )
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
 - [Réseau social]
+##
 <p align="center">
+ <a href="https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois">
 <img class="center" width="700" height="400" align="center" alt="Capture d’écran 2023-07-10 à 14 50 31" src="https://github.com/edwardrico/edwardrico/assets/120380332/7a59542c-d502-445a-8403-e89099ef80b7">
 </p>
 
@@ -121,7 +134,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
 - [Mueblea]
+##
 <p align="center">
+ <a href="https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea">
 <img class="center" width="700" height="400"  align="center" alt="Capture d’écran 2023-07-10 à 15 25 07" src="https://github.com/edwardrico/edwardrico/assets/120380332/d071f21f-a647-4e44-8913-453e8eda6ebc">
 </p>
 
