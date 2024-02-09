@@ -1,9 +1,10 @@
 #
 <h1 align="center">  Hi, I am </h1> 
 
-
+<p align="center">
+<a href="https://github.com/edwardrico"> 
 <img width="1438" alt="Capture d’écran 2024-02-09 à 20 31 27" src="https://github.com/edwardrico/edwardrico/assets/120380332/175cd4f9-1a0b-41c8-b0af-a4e97a83d379">
-
+</p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardrico-9&label=Profile%20views&color=0e75b6&style=flat-square" alt="edwardrico" /> </p>
 
