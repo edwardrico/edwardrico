@@ -27,7 +27,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 ## App-Météo-API
 
-## Application Meteo
+### Application Meteo
 
 - Technologies utilisées :( Python, Django, Bootstrap, Html, CSS,)
 - [lien vers le projet](https://github.com/edwardrico/App-Meteo-API)
