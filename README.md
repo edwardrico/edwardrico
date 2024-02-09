@@ -40,7 +40,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 ## SpotMyTown.
 
-## Application web pour référencer les lieux touristiques de la ville dans diverses catégories telles que : Restaurants, Bars, Lieux touristiques et Boîtes de nuit..
+### Application web pour référencer les lieux touristiques de la ville dans diverses catégories telles que : Restaurants, Bars, Lieux touristiques et Boîtes de nuit..
 
 - Technologies utilisées : ( Python, Django, Bootstrap, Html, CSS, JavaScript )
 - [lien vers le projet](https://github.com/edwardrico/SpotMyTown-)
