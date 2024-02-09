@@ -145,9 +145,8 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 ##
 # GitHub Stats
-<p align="center">
 ![edwardrico GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardrico&show_icons=true&theme=dracula)
-</p>
+
 ##
 
 # Contact
