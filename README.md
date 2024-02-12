@@ -29,11 +29,11 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
  
    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24" style="margin-right: 5px;">CSS</div>
  
-  <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24" style="margin-right: 5px;"> Bootstrap</div>
+  <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24" style="margin-right: 5px;">Bootstrap</div>
 
    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24" style="margin-right: 5px;">Python</div>
  
-   <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24" style="margin-right: 5px;"> Django</div>
+   <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24" style="margin-right: 5px;">Django</div>
  
    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24" style="margin-right: 5px;">React</div>
   
