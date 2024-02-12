@@ -17,9 +17,9 @@
 <h1 align="center"> À propos de moi</h1>
 
 Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que:
-
-<h3>Langages de programmation</h3>
-
+##
+<h3>Langages de programmation : </h3>
+##
 <div style="display:flex; flex-wrap: wrap;">
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24"> HTML</div>
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24"> CSS</div>
@@ -29,9 +29,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24"> PHP</div>
     <div><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24"> JavaScript</div>
 </div>
-
-<h3>Outils</h3>
-
+##
+<h3>Outils : </h3>
+##
 <div style="display:flex; flex-wrap: wrap;">
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24"> Figma</div>
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="24"> Visual Studio Code</div>
