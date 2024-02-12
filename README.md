@@ -20,25 +20,23 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 <h3>Langages de programmation</h3>
 
-<ul>
-    <li><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24"> HTML</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24"> CSS</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24"> Python</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24"> Django</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24"> React</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24"> PHP</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24"> JavaScript</li>
+<ul style="list-style-type:none; padding:0; margin:0;">
+    <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24"> HTML</li>
+    <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24"> CSS</li>
+    <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24"> Python</li>
+    <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24"> Django</li>
+    <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24"> React</li>
+    <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24"> PHP</li>
+    <li style="display:inline-block;"><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24"> JavaScript</li>
 </ul>
 
-<h3>Outils</h3>
+<h3 style="display:inline-block; margin-right:20px;">Outils</h3>
 
-<ul>
-    <li><img src="https://github.com/github/explore/raw/main/topics/trello/trello.png" alt="Trello" width="24"> Trello</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24"> Figma</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"         width="24"> Visual Studio Code</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="24"> PyCharm</li>
+<ul style="list-style-type:none; padding:0; margin:0;">
+    <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24"> Figma</li>
+    <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="24"> Visual Studio Code</li>
+    <li style="display:inline-block;"><img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="24"> PyCharm</li>
 </ul>
-
 
 
 
