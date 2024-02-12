@@ -57,7 +57,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Application Meteo
 
 - Technologies utilisées :( Python, Django, Bootstrap, Html, CSS,)
-[![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-App--Meteo--API-brightgreen)](https://github.com/edwardrico/App-Meteo-API)
+- [![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-App--Meteo--API-brightgreen)](https://github.com/edwardrico/App-Meteo-API)
 - Meteo
 ##
 <p align="center">
@@ -72,7 +72,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Application web pour référencer les lieux touristiques de la ville dans diverses catégories telles que : Restaurants, Bars, Lieux touristiques et Boîtes de nuit..
 
 - Technologies utilisées : ( Python, Django, Bootstrap, Html, CSS, JavaScript )
-- [![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-SpotMyTown-brightgreen)](https://github.com/edwardrico/SpotMyTown-)
+- [![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-SpotMyTown-blue)](https://github.com/edwardrico/SpotMyTown-)
 
 - SpotMyTown
 ##
@@ -86,7 +86,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ## Portfolio.
 
 - Technologies utilisées : ( React.js , CSS )
-- [![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-Portfolio-brightgreen)](https://github.com/edwardrico/portfolio)
+- [![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-Portfolio-blue)](https://github.com/edwardrico/portfolio)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-www.edwardalmedo.fr-blue)](http://www.edwardalmedo.fr)
 
 - Portfolio Edward Almedo
