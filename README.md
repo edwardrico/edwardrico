@@ -24,7 +24,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 ##
 <div style="display:flex; flex-wrap: wrap;">
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24"> HTML</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24" style="margin-right: 5px;"> HTML</div>
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24"> CSS</div>
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24"> Python</div>
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24"> Django</div>
@@ -83,7 +83,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : ( React.js , CSS )
 - [lien vers le projet](https://github.com/edwardrico/portfolio)
 - www.edwardalmedo.fr
-- Mon Portfolio
+- Portfolio Edward Almedo
 ##
 <p align="center">
 <a href="https://github.com/edwardrico/portfolio">
@@ -98,7 +98,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
-- Les Mousquetaire
+- LesMousquetaire
 ##
 <p align="center">
 <a href="https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires">
@@ -113,7 +113,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
-- Travel Time
+- TravelTime
 ##
 <p align="center">
  <a href="https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup">
@@ -128,7 +128,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : JavaScript, Chrome Extensions API.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion)
-- Extension web chrome
+- ExtensionWebChrome
 ##
  <p align="center">
    <a href="https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion">
@@ -143,7 +143,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technoligies utilisées : Php, Mysql, HTML, CSS, Gestion de projet ( Trello )
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
-- Réseau social
+- RéseauSocial
 ##
 <p align="center">
  <a href="https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois">
