@@ -7,7 +7,7 @@
 <img width="1438" alt="Capture d’écran 2024-02-09 à 20 31 27" src="https://github.com/edwardrico/edwardrico/assets/120380332/175cd4f9-1a0b-41c8-b0af-a4e97a83d379">
 </p>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardrico-9&label=Profile%20views&color=0e75b6&style=flat-square" alt="edwardrico" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardrico-9&label=Profile%20views&color=0e75b6&style=flat-square" alt="edwardrico" /></p>
 
 
 👋 Salut ! Je suis Edward Almedo, un étudiant développeur web passionné par la création d'applications web innovantes et captivantes. Je suis actuellement étudiant à Ada Tech School, où j'ai acquis des compétences solides en développement web.
@@ -86,7 +86,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : ( React.js , CSS )
 - [lien vers le projet](https://github.com/edwardrico/portfolio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.edwardalmedo.fr-blue)](http://www.edwardalmedo.fr)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-www.edwardalmedo.fr-blue)](http://www.edwardalmedo.fr)
 
 - Portfolio Edward Almedo
 ##
