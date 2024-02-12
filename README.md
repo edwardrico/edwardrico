@@ -149,7 +149,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technoligies utilisées : Php, Mysql, HTML, CSS, Gestion de projet ( Trello )
 - [![LProjet de Groupe](https://img.shields.io/badge/Projet%20de%20le%20Groupe-Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
-- RéseauSocial
+- Let'sTalkTech
 ##
 <p align="center">
  <a href="https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois">
