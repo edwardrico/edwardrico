@@ -15,8 +15,18 @@
 
 <h1 align="center"> À propos de moi</h1>
 
-Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python |Django| React| PHP et JavaScript.
-##
+Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que:
+
+<h3>Langage de programmation</h3>
+
+° HTML
+° CSS 
+° Python 
+° Django
+° React
+° PHP  
+° JavaScript.
+
 <h3> Outils:</h3>
 
 ° Trello
@@ -25,7 +35,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ° Pycharm
 
 
-##
+
 
 <h1 align="center">Projets</h1>
 
