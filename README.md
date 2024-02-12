@@ -24,23 +24,23 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 ##
 
-<div style="display:-online; ">
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24" style="margin-right: 5px;"></div>
- HTML
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24" style="margin-right: 5px;"></div>
- CSS
-  <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24" style="margin-right: 5px;"></div>
- Bootstrap
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24" style="margin-right: 5px;"></div>
- Python
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24" style="margin-right: 5px;"></div>
-  Django
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24" style="margin-right: 5px;"></div>
-  React
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24" style="margin-right: 5px;"></div>
-  PHP
-    <div><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24" style="margin-right: 5px;"></div>
- JavaScript
+<div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24" style="margin-right: 5px;">HTML</div>
+ 
+   <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24" style="margin-right: 5px;">CSS</div>
+ 
+  <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24" style="margin-right: 5px;"> Bootstrap</div>
+
+   <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24" style="margin-right: 5px;">Python</div>
+ 
+   <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24" style="margin-right: 5px;"> Django</div>
+ 
+   <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24" style="margin-right: 5px;">React</div>
+  
+   <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24" style="margin-right: 5px;">PHP</div>
+  
+   <div><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24" style="margin-right: 5px;">JavaScript</div>
+ 
 </div>
 
 ##
