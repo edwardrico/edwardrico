@@ -20,20 +20,19 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 ### Langages de programmation
 
-- HTML ![HTML](https://github.com/github/explore/raw/main/topics/html/html.png)
-- CSS ![CSS](https://github.com/github/explore/raw/main/topics/css/css.png)
-- Python ![Python](https://github.com/github/explore/raw/main/topics/python/python.png)
-- Django ![Django](https://github.com/github/explore/raw/main/topics/django/django.png)
-- React ![React](https://github.com/github/explore/raw/main/topics/react/react.png)
-- PHP ![PHP](https://github.com/github/explore/raw/main/topics/php/php.png)
-- JavaScript ![JavaScript](https://github.com/github/explore/raw/main/topics/javascript/javascript.png)
+- HTML <img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="16">
+- CSS <img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="16">
+- Python <img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="16">
+- Django <img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="16">
+- React <img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="16">
+- PHP <img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="16">
+- JavaScript <img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="16">
 
 ### Outils
 
-- Figma ![Figma](https://github.com/github/explore/raw/main/topics/figma/figma.png)
-- Visual Studio Code ![Visual Studio Code](https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png)
-- PyCharm ![PyCharm](https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png)
-
+- Figma <img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="16">
+- Visual Studio Code <img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="16">
+- PyCharm <img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="16">
 
 
 
