@@ -16,11 +16,14 @@
 <h1 align="center"> À propos de moi</h1>
 
 Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que HTML| CSS| Python |Django| React| PHP et JavaScript.
+##
 <h3> Outils:</h3>
 
 ° Trello
+° Figma
 ° VisualStusi Code
 ° Pycharm
+
 
 ##
 
@@ -32,7 +35,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées :( Python, Django, Bootstrap, Html, CSS,)
 - [lien vers le projet](https://github.com/edwardrico/App-Meteo-API)
-- [Meteo]
+- Meteo
 ##
 <p align="center">
 <a href="https://github.com/edwardrico/App-Meteo-API">
@@ -47,7 +50,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : ( Python, Django, Bootstrap, Html, CSS, JavaScript )
 - [lien vers le projet](https://github.com/edwardrico/SpotMyTown-)
-- [SpotMyTown]
+- SpotMyTown
 ##
 <p align="center">
 <a href="https://github.com/edwardrico/SpotMyTown-">
@@ -61,7 +64,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 - Technologies utilisées : ( React.js , CSS )
 - [lien vers le projet](https://github.com/edwardrico/portfolio)
 - www.edwardalmedo.fr
-- [Mon Portfolio]
+- Mon Portfolio
 ##
 <p align="center">
 <a href="https://github.com/edwardrico/portfolio">
@@ -76,7 +79,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
-- [Les Mousquetaire]
+- Les Mousquetaire
 ##
 <p align="center">
 <a href="https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires">
@@ -91,7 +94,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
-- [Travel Time]
+- Travel Time
 ##
 <p align="center">
  <a href="https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup">
@@ -106,7 +109,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : JavaScript, Chrome Extensions API.
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion)
-- [Extension web chrome]
+- Extension web chrome
 ##
  <p align="center">
    <a href="https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion">
@@ -121,7 +124,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technoligies utilisées : Php, Mysql, HTML, CSS, Gestion de projet ( Trello )
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
-- [Réseau social]
+- Réseau social
 ##
 <p align="center">
  <a href="https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois">
@@ -136,7 +139,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
 - [Lien vers le projet](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
-- [Mueblea]
+- Mueblea
 ##
 <p align="center">
  <a href="https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea">
