@@ -57,7 +57,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Application Meteo
 
 - Technologies utilisées :( Python, Django, Bootstrap, Html, CSS,)
-- [lien vers le projet](https://github.com/edwardrico/App-Meteo-API)
+[![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-App--Meteo--API-brightgreen)](https://github.com/edwardrico/App-Meteo-API)
 - Meteo
 ##
 <p align="center">
@@ -72,7 +72,8 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Application web pour référencer les lieux touristiques de la ville dans diverses catégories telles que : Restaurants, Bars, Lieux touristiques et Boîtes de nuit..
 
 - Technologies utilisées : ( Python, Django, Bootstrap, Html, CSS, JavaScript )
-- [lien vers le projet](https://github.com/edwardrico/SpotMyTown-)
+- [![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-SpotMyTown-brightgreen)](https://github.com/edwardrico/SpotMyTown-)
+
 - SpotMyTown
 ##
 <p align="center">
@@ -85,7 +86,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ## Portfolio.
 
 - Technologies utilisées : ( React.js , CSS )
-- [lien vers le projet](https://github.com/edwardrico/portfolio)
+- [![Projet GitHub](https://img.shields.io/badge/Projet%20GitHub-Portfolio-brightgreen)](https://github.com/edwardrico/portfolio)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-www.edwardalmedo.fr-blue)](http://www.edwardalmedo.fr)
 
 - Portfolio Edward Almedo
@@ -117,7 +118,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Une application web interactive utilisant les données de transport public de Nantes.
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
-- [Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
+- [[Lien vers le projet](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
 - TravelTime
 ##
 <p align="center">
