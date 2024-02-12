@@ -57,7 +57,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Application Meteo
 
 - Technologies utilisées :( Python, Django, Bootstrap, Html, CSS,)
-- [![Project personnel](https://img.shields.io/badge/Projet%20GitHub-App--Meteo--API-blue)](https://github.com/edwardrico/App-Meteo-API)
+- [![Project personnel](https://img.shields.io/badge/Projet%20Gpersonnel-App--Meteo--API-blue)](https://github.com/edwardrico/App-Meteo-API)
 - Meteo
 ##
 <p align="center">
@@ -72,7 +72,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Application web pour référencer les lieux touristiques de la ville dans diverses catégories telles que : Restaurants, Bars, Lieux touristiques et Boîtes de nuit..
 
 - Technologies utilisées : ( Python, Django, Bootstrap, Html, CSS, JavaScript )
-- [![Project personnel](https://img.shields.io/badge/Projet%20GitHub-SpotMyTown-blue)](https://github.com/edwardrico/SpotMyTown-)
+- [![Project personnel](https://img.shields.io/badge/Projet%20Gpersonnel-SpotMyTown-blue)](https://github.com/edwardrico/SpotMyTown-)
 
 - SpotMyTown
 ##
@@ -86,7 +86,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ## Portfolio.
 
 - Technologies utilisées : ( React.js , CSS )
-- [![Project personnel](https://img.shields.io/badge/Projet%20GitHub-Portfolio-blue)](https://github.com/edwardrico/portfolio)
+- [![Project personnel](https://img.shields.io/badge/Projet%20Gpersonnel-Portfolio-blue)](https://github.com/edwardrico/portfolio)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-www.edwardalmedo.fr-blue)](http://www.edwardalmedo.fr)
 
 - Portfolio Edward Almedo
@@ -103,7 +103,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Un jeu d'aventure captivant créé en équipe avec une atmosphère rétro.
 
 - Technologies utilisées : Pico-8 (plateforme de développement de jeux rétro).
-- [![Projet de Groupe](https://img.shields.io/badge/Projet%20GitHub-Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
+- [![Projet de Groupe](https://img.shields.io/badge/Projet%20Groupe-Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---pico8-les-mousquetaires)
 - LesMousquetaire
 ##
 <p align="center">
@@ -118,7 +118,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Une application web interactive utilisant les données de transport public de Nantes.
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
-- [![Projet de Groupe](https://img.shields.io/badge/Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
+- [![Projet de Groupe](https://img.shields.io/badge/Projet%20de%20GroupeLien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
 - TravelTime
 ##
 <p align="center">
@@ -133,7 +133,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Une extension Chrome amusante qui reconnaît les visages des personnalités politiques françaises.
 
 - Technologies utilisées : JavaScript, Chrome Extensions API.
-- [![Projet de Groupe](https://img.shields.io/badge/Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion)
+- [![Projet de Groupe](https://img.shields.io/badge/Projet%20de%20Groupe-Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---extension-chrome-kevin-edward-marion)
 - ExtensionWebChrome
 ##
  <p align="center">
@@ -148,7 +148,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Un réseau social avec php mysql.
 
 - Technoligies utilisées : Php, Mysql, HTML, CSS, Gestion de projet ( Trello )
-- [![LProjet de Groupe](https://img.shields.io/badge/Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
+- [![LProjet de Groupe](https://img.shields.io/badge/Projet%20de%20le%20Groupe-Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---reseau-social-php-team_agathe_edward_francois)
 - RéseauSocial
 ##
 <p align="center">
@@ -163,7 +163,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Site web magasin en ligne (MUEBLEA).
 
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
-- [![LProjet de Groupe](https://img.shields.io/badge/Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
+- [![LProjet de Groupe](https://img.shields.io/badge/Projet%20de%20le%20Groupe-Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
 - Mueblea
 ##
 <p align="center">
