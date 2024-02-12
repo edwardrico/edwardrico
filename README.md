@@ -18,21 +18,25 @@
 
 Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que:
 
-### Langages de programmation
+<h3>Langages de programmation</h3>
 
-- HTML <img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="16">
-- CSS <img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="16">
-- Python <img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="16">
-- Django <img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="16">
-- React <img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="16">
-- PHP <img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="16">
-- JavaScript <img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="16">
+<div style="display:flex; flex-wrap: wrap;">
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24"> HTML</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24"> CSS</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24"> Python</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24"> Django</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24"> React</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24"> PHP</div>
+    <div><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24"> JavaScript</div>
+</div>
 
-### Outils
+<h3>Outils</h3>
 
-- Figma <img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="16">
-- Visual Studio Code <img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="16">
-- PyCharm <img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="16">
+<div style="display:flex; flex-wrap: wrap;">
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24"> Figma</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="24"> Visual Studio Code</div>
+    <div><img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="24"> PyCharm</div>
+</div>
 
 
 
