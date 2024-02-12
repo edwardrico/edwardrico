@@ -24,7 +24,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 ##
 
-<div style="display:flex; flex-wrap: wrap;">
+<div style="display:-online; ">
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24" style="margin-right: 5px;"></div>
  HTML
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24" style="margin-right: 5px;"></div>
@@ -36,9 +36,9 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24" style="margin-right: 5px;"></div>
   Django
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24" style="margin-right: 5px;"></div>
-  Django
+  React
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24" style="margin-right: 5px;"></div>
-  Django
+  PHP
     <div><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24" style="margin-right: 5px;"></div>
  JavaScript
 </div>
