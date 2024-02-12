@@ -30,7 +30,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
     <li style="display:inline-block;"><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24"> JavaScript</li>
 </ul>
 
-<h3 style="display:inline-block; margin-right:50px;">Outils</h3>
+<h3 style="display:inline-block; margin-right:20px;">Outils</h3>
 
 <ul style="list-style-type:none; padding:0; margin:0;">
     <li style="display:inline-block; margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24"> Figma</li>
