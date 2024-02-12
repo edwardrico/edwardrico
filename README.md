@@ -1,4 +1,17 @@
 #
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-cLgh1p+xBtTc6b4bwE++X8yHXRb9TcQB2tov2z/v3Bd+6XJy8SZ58xb8e9hBqIxH" crossorigin="anonymous">
+
+.icon-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.icon-list li {
+    display: inline-block;
+    margin-right: 10px; /* Espacement entre les icônes */
+}
+
 <h1 align="center">  Hi, I am </h1> 
 
 <p align="center">
@@ -17,22 +30,27 @@
 
 Je suis un étudiant en développement web à Ada Tech School, motivé par la curiosité et le désir constant d'apprendre de nouvelles technologies. J'ai une passion pour la création d'applications web modernes et interactives, en utilisant des langages et des outils tels que:
 
-<h3>Langage de programmation</h3>
+<h3>Langages de programmation</h3>
 
-° HTML
-° CSS 
-° Python 
-° Django
-° React
-° PHP  
-° JavaScript.
+<ul class="icon-list">
+    <li><i class="fab fa-html5"></i> HTML</li>
+    <li><i class="fab fa-css3-alt"></i> CSS</li>
+    <li><i class="fab fa-python"></i> Python</li>
+    <li><i class="fab fa-python"></i> Django</li>
+    <li><i class="fab fa-react"></i> React</li>
+    <li><i class="fab fa-php"></i> PHP</li>
+    <li><i class="fab fa-js"></i> JavaScript</li>
+</ul>
 
-<h3> Outils:</h3>
+<h3>Outils</h3>
 
-° Trello
-° Figma
-° VisualStusi Code
-° Pycharm
+<ul class="icon-list">
+    <li><i class="fab fa-trello"></i> Trello</li>
+    <li><i class="fab fa-figma"></i> Figma</li>
+    <li><i class="fas fa-code"></i> Visual Studio Code</li>
+    <li><i class="fab fa-pycharm"></i> PyCharm</li>
+</ul>
+
 
 
 
