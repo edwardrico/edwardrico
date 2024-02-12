@@ -35,7 +35,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 <ul>
     <li><img src="https://github.com/github/explore/raw/main/topics/trello/trello.png" alt="Trello" width="24"> Trello</li>
     <li><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24"> Figma</li>
-    <li><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="24"> Visual Studio Code</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"         width="24"> Visual Studio Code</li>
     <li><img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="24"> PyCharm</li>
 </ul>
 
