@@ -1,16 +1,4 @@
 #
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-cLgh1p+xBtTc6b4bwE++X8yHXRb9TcQB2tov2z/v3Bd+6XJy8SZ58xb8e9hBqIxH" crossorigin="anonymous">
-
-.icon-list {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
-
-.icon-list li {
-    display: inline-block;
-    margin-right: 10px; /* Espacement entre les icônes */
-}
 
 <h1 align="center">  Hi, I am </h1> 
 
@@ -32,23 +20,23 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 <h3>Langages de programmation</h3>
 
-<ul class="icon-list">
-    <li><i class="fab fa-html5"></i> HTML</li>
-    <li><i class="fab fa-css3-alt"></i> CSS</li>
-    <li><i class="fab fa-python"></i> Python</li>
-    <li><i class="fab fa-python"></i> Django</li>
-    <li><i class="fab fa-react"></i> React</li>
-    <li><i class="fab fa-php"></i> PHP</li>
-    <li><i class="fab fa-js"></i> JavaScript</li>
+<ul>
+    <li><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24"> HTML</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24"> CSS</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24"> Python</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24"> Django</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24"> React</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24"> PHP</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24"> JavaScript</li>
 </ul>
 
 <h3>Outils</h3>
 
-<ul class="icon-list">
-    <li><i class="fab fa-trello"></i> Trello</li>
-    <li><i class="fab fa-figma"></i> Figma</li>
-    <li><i class="fas fa-code"></i> Visual Studio Code</li>
-    <li><i class="fab fa-pycharm"></i> PyCharm</li>
+<ul>
+    <li><img src="https://github.com/github/explore/raw/main/topics/trello/trello.png" alt="Trello" width="24"> Trello</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24"> Figma</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="24"> Visual Studio Code</li>
+    <li><img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="24"> PyCharm</li>
 </ul>
 
 
