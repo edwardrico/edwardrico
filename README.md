@@ -86,7 +86,8 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 - Technologies utilisées : ( React.js , CSS )
 - [lien vers le projet](https://github.com/edwardrico/portfolio)
-- www.edwardalmedo.fr
+[![Portfolio](https://img.shields.io/badge/Portfolio-www.edwardalmedo.fr-blue)](http://www.edwardalmedo.fr)
+
 - Portfolio Edward Almedo
 ##
 <p align="center">
