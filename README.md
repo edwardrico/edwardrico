@@ -118,7 +118,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Une application web interactive utilisant les données de transport public de Nantes.
 
 - Technologies utilisées : API de la TAN, langages web (HTML, CSS, JavaScript), bibliothèques de visualisation de données.
--[![Lien vers le projet](https://img.shields.io/badge/Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
+- [![Lien vers le projet](https://img.shields.io/badge/Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---dataviz-api-thebestgroup)
 - TravelTime
 ##
 <p align="center">
@@ -163,7 +163,7 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 ### Site web magasin en ligne (MUEBLEA).
 
 - Technologies utilisées : TypeScrit, module TypeORM, CSS, Nest.js, gestion projet (Trello)
--[![Lien vers le projet](https://img.shields.io/badge/Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
+- [![Lien vers le projet](https://img.shields.io/badge/Lien%20vers%20le%20projet-blue)](https://github.com/edwardrico/projet-collectif---plateforme-de-vente-de-meubles-meublea)
 - Mueblea
 ##
 <p align="center">
