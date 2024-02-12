@@ -22,27 +22,24 @@ Je suis un étudiant en développement web à Ada Tech School, motivé par la cu
 
 <h3>Langages de programmation : </h3>
 
-##
 <div style="display:flex; flex-wrap: wrap;">
     <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/html/html.png" alt="HTML" width="24" style="margin-right: 5px;"> HTML</div>
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24" style="margin-right: 5px;> CSS</div>
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24" style="margin-right: 5px;> Python</div>
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24" style="margin-right: 5px;> Django</div>
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24" style="margin-right: 5px;> React</div>
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24" style="margin-right: 5px;> PHP</div>
-    <div><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24" style="margin-right: 5px;> JavaScript</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/css/css.png" alt="CSS" width="24" style="margin-right: 5px;"> CSS</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="Python" width="24" style="margin-right: 5px;"> Python</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="24" style="margin-right: 5px;"> Django</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/react/react.png" alt="React" width="24" style="margin-right: 5px;"> React</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/php/php.png" alt="PHP" width="24" style="margin-right: 5px;"> PHP</div>
+    <div><img src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" alt="JavaScript" width="24" style="margin-right: 5px;"> JavaScript</div>
 </div>
-
-##
 
 <h3>Outils : </h3>
 
-##
 <div style="display:flex; flex-wrap: wrap;">
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24" style="margin-right: 5px;> Figma</div>
-    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="24 style="margin-right: 5px;"> Visual Studio Code</div>
-    <div><img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="24" style="margin-right: 5px;> PyCharm</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/figma/figma.png" alt="Figma" width="24" style="margin-right: 5px;"> Figma</div>
+    <div style="margin-right:20px;"><img src="https://github.com/github/explore/raw/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="24" style="margin-right: 5px;"> Visual Studio Code</div>
+    <div><img src="https://github.com/github/explore/raw/main/topics/pycharm/pycharm.png" alt="PyCharm" width="24" style="margin-right: 5px;"> PyCharm</div>
 </div>
+
 
 
 ##
